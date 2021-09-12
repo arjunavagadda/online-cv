@@ -14,17 +14,26 @@ sidebar:
     # Sidebar links
     email: arjunavagadda207@gmail.com
     phone: +91 9959156195
-    website:  #do not add http://
+    website:  www.arjunavagadda.ml
     linkedin: arjunavagadda207
-    xing: 
     github: arjunavagadda
     telegram: arjun_07 # add your nickname without '@' sign
-    gitlab:
+    gitlab: arjun.avagadda
     bitbucket:
     twitter: 'arjun_207'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+
+    Certifications:
+      - idiom: Telugu
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+      - idiom: Hindi
+        level: Elementary
 
     languages:
       - idiom: Telugu
