@@ -25,15 +25,27 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    Certifications:
-      - idiom: Telugu
-        level: Native
+    interests:
+      - item: pinnacle
+        link:
 
-      - idiom: English
-        level: Professional
+      - item: clinet
+        link:
 
-      - idiom: Hindi
-        level: Elementary
+      
+    
+    interests:
+      - item: AWS
+        link:
+
+      - item: AZure
+        link:
+
+      - item: Cooking
+        link:
+      
+      - item: GCP
+        link:
 
     languages:
       - idiom: Telugu
