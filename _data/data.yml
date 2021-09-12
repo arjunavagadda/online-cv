@@ -25,7 +25,7 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    interests:
+    achieve:
       - item: pinnacle
         link:
 
@@ -36,7 +36,7 @@ sidebar:
     
     certs:
       - item: AWS
-        link:
+        link: https://www.google.co.in/
 
       - item: AZure
         link:
@@ -165,7 +165,7 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Personal/Hobby Projects
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc

@@ -1,18 +1,18 @@
-{% assign interests = site.data.data.sidebar.interests %}
-{% if interests %}
-<div class="interests-container container-block">
+{% assign achieve = site.data.data.sidebar.achieve %}
+{% if achieve %}
+<div class="achieve-container container-block">
 
   <h2 class="container-block-title">
     Achievements
   </h2>
 
-  <ul class="list-unstyled interests-list">
-    {% for interest in interests %}
+  <ul class="list-unstyled achieve-list">
+    {% for ach in achieve %}
 
-      {% if interest.link %}
-      <li><a href="{{ interest.link }}">{{ interest.item }}</a></li>
+      {% if ach.link %}
+      <li><a href="{{ ach.link }}">{{ ach.item }}</a></li>
       {% else %}
-      <li>{{ interest.item }}</li>
+      <li>{{ ach.item }}</li>
       {% endif %}
 
     {% endfor %}
