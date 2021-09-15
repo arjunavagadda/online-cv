@@ -188,7 +188,7 @@ publications:
     intro: |
       
     papers: 
-      - title: "KodeKloud Engineer" 
+      - title: "#KodeKloud Engineer" 
         link: "https://legacy.kodekloud.com/p/kodekloud-engineer"
         # authors: Donald E. Knuth
         conference: |
@@ -196,12 +196,12 @@ publications:
             - promoted to DevOps Engineer from Systems Administrator.
             
 
-      - title: "Setup a Jenkins pipeline to integrate maven SonarQube and deploy on Apache Tomcat"
+      - title: "#Setup a Jenkins pipeline to integrate maven SonarQube and deploy on Apache Tomcat"
         link: "https://gitlab.com/arjun.avagadda/spring-project"
         # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         # conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: miscellaneous
+      - title: "#miscellaneous"
         link: "https://gitlab.com/arjun.avagadda"
         # authors: Edgar T. Irons
         conference: |
@@ -210,7 +210,7 @@ publications:
             - Exposure to aws devops services - aws CodeDeploy , CodePipeline
             - Built some basic aws CloudFormation templates for VPC provisioning on AWS
 
-      - title: "Chaos Engineering" 
+      - title: "#Chaos Engineering" 
         link: "https://gitlab.com/arjun.avagadda/devops-misc"
         # authors: Edgar T. Irons
         conference: |
