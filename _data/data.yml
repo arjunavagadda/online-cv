@@ -27,7 +27,7 @@ sidebar:
 
     achieve:
       - item: pinnacle
-        link:
+        link: https://www.google.co.in/
 
       - item: clinet
         link:
@@ -59,8 +59,7 @@ sidebar:
 
     interests:
       - item: Climbing
-        link: https://www.google.co.in/
-
+        link: 
       - item: Snowboarding
         link:
 
