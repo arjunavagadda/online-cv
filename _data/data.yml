@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Arjun
-    tagline: Devops Engineer
+    tagline: Cloud/Devops Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -118,7 +118,7 @@ experiences:
       time: Aug/2018 - Dec/2018
       company: iSpatial Techno Solutions Pvt Ltd, Hyderabad, India
       details: |
-          - Worked developing mapping applications using HTML5,CSS3, JavaScript( ArcGIS API for JavaScript)
+          - Worked on developing mapping applications using HTML5,CSS3, JavaScript( ArcGIS API for JavaScript)
           - Basic level understanding on SQL.
     # - role: UI Developer
     #   time: 2012 - 2014
@@ -174,7 +174,7 @@ projects:
         # link: "#"
         tagline: |
             - Developed custom Add-ons using Python Scripting which pulls data from different sources
-            - Advance Dashboarding Created Reports, Alerts and Dashboards by Splunk query language for various agile teams in the project.
+            - Created Reports, Alerts and Dashboards by Splunk query language for various agile teams in the project.
             - Worked on shell scripting to automate the Splunk reindexing.
       - title: AWS Environment and NOC Analyst
         # link: "#"
@@ -188,7 +188,7 @@ publications:
     intro: |
       
     papers: 
-      - title: "#KodeKloud Engineer" 
+      - title: "#KodeKloud Engineer - virtual platform" 
         link: "https://legacy.kodekloud.com/p/kodekloud-engineer"
         # authors: Donald E. Knuth
         conference: |
