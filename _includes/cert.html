@@ -9,7 +9,7 @@
   <ul class="list-unstyled interests-list">
     {% for certify in certs %}
 
-      {% if interest.link %}
+      {% if certify.link %}
       <li><a href="{{ certify.link }}">{{ certify.item }}</a></li>
       {% else %}
       <li>{{ certify.item }}</li>
