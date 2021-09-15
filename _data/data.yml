@@ -185,17 +185,15 @@ projects:
 
 publications:
     title: Personal/Hobby Projects
-    # intro: |
-    #   You can list your publications in this section. Lorem ipsum dolor sit
-    #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    #   bibendum fringilla a eu lectus.
-    papers:
+    intro: |
+      
+    papers: 
       - title: "KodeKloud Engineer" 
         link: "https://legacy.kodekloud.com/p/kodekloud-engineer"
         # authors: Donald E. Knuth
         conference: |
-            - Worked on various linux and devops tasks in virtual Environment 
-            - promoted to DevOps Engineer from Systems Administrator.
+            Worked on various linux and devops tasks in virtual Environment 
+            promoted to DevOps Engineer from Systems Administrator.
             
 
       - title: "Setup a Jenkins pipeline to integrate maven SonarQube and deploy on Apache Tomcat"
@@ -205,16 +203,16 @@ publications:
 
       - title: Misc..
         link: "https://gitlab.com/arjun.avagadda"
-        authors: Edgar T. Irons
+        # authors: Edgar T. Irons
         conference: |
-            - Prepared reference Notes on various concepts on Ansible, Docker, Terraform 
-            - Worked on lambda basic snippets
-            - Exposure to aws devops services - aws CodeDeploy , CodePipeline
-            - Built some basic aws CloudFormation templates for VPC provisioning on AWS
+            Prepared reference Notes on various concepts on Ansible, Docker, Terraform 
+            Worked on lambda basic snippets
+            Exposure to aws devops services - aws CodeDeploy , CodePipeline
+            Built some basic aws CloudFormation templates for VPC provisioning on AWS
 
-       - title: "Chaos Engineering" 
+      - title: "Chaos Engineering" 
         link: "https://gitlab.com/arjun.avagadda/devops-misc"
-        authors: Edgar T. Irons
+        # authors: Edgar T. Irons
         conference: |
             - built some basic activities to kill aws services on Gremlin SaaS platform. 
             - "break things on purpose" to learn how to build more resilient systems.
