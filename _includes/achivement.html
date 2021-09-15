@@ -10,7 +10,7 @@
     {% for ach in achieve %}
 
       {% if ach.link %}
-      <li><a href="{{ ach.link }}">{{ ach.item }}</a></li>
+      <li><a href="{{ ach.link }}" target="_blank">{{ ach.item }}</a></li>
       {% else %}
       <li>{{ ach.item }}</li>
       {% endif %}

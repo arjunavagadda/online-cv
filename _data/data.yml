@@ -171,13 +171,13 @@ projects:
             - Experience with container based deployments using Docker, working with Docker images, container, Docker Hub
 
       - title: Splunk Monitoring tool
-        link: "#"
+        # link: "#"
         tagline: |
             - Developed custom Add-ons using Python Scripting which pulls data from different sources
             - Advance Dashboarding Created Reports, Alerts and Dashboards by Splunk query language for various agile teams in the project.
             - Worked on shell scripting to automate the Splunk reindexing.
       - title: AWS Environment and NOC Analyst
-        link: "#"
+        # link: "#"
         tagline: |
             - Worked on some of the AWS services EC2, S3, CloudWatch and beginner level understanding of VPC.
             - Responsible for ensuring maintaining performance and setting up monitoring using Cloud Watch.
@@ -192,8 +192,8 @@ publications:
         link: "https://legacy.kodekloud.com/p/kodekloud-engineer"
         # authors: Donald E. Knuth
         conference: |
-            Worked on various linux and devops tasks in virtual Environment 
-            promoted to DevOps Engineer from Systems Administrator.
+            - Worked on various linux and devops tasks in virtual Environment 
+            - promoted to DevOps Engineer from Systems Administrator.
             
 
       - title: "Setup a Jenkins pipeline to integrate maven SonarQube and deploy on Apache Tomcat"
@@ -201,14 +201,14 @@ publications:
         # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         # conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: Misc..
+      - title: miscellaneous
         link: "https://gitlab.com/arjun.avagadda"
         # authors: Edgar T. Irons
         conference: |
-            Prepared reference Notes on various concepts on Ansible, Docker, Terraform 
-            Worked on lambda basic snippets
-            Exposure to aws devops services - aws CodeDeploy , CodePipeline
-            Built some basic aws CloudFormation templates for VPC provisioning on AWS
+            - Prepared reference Notes on various concepts on Ansible, Docker, Terraform 
+            - Worked on lambda basic snippets
+            - Exposure to aws devops services - aws CodeDeploy , CodePipeline
+            - Built some basic aws CloudFormation templates for VPC provisioning on AWS
 
       - title: "Chaos Engineering" 
         link: "https://gitlab.com/arjun.avagadda/devops-misc"
@@ -223,28 +223,28 @@ skills:
 
     toolset:
       - name: Jenkins
-        level: 95%
+        level: 90%
 
       - name: GIT
-        level: 90%
+        level: 85%
 
       - name: Ansible
         level: 85%
 
-      - name: Python
-        level: 70%
+      - name: Docker 
+        level: 85%
 
-      - name: Docker
+      - name: Splunk
         level: 85%
 
       - name: Terraform
         level: 70%
         
-      - name: Splunk
-        level: 90%
+      - name: Python
+        level: 70%
 
       - name: HTML5 & CSS
-        level: 70%
+        level: 80%
 
 footer: >
     Arjun Avagadda
