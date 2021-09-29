@@ -216,6 +216,11 @@ publications:
         conference: |
             - built some basic activities to kill aws services on Gremlin SaaS platform. 
             - "break things on purpose" to learn how to build more resilient systems.
+      
+      - title: "#Publish AWS-S3 Terraform module"
+        link: "https://github.com/arjunavagadda/terraform-aws-s3module"
+        # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        # conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
             
 
 skills:
