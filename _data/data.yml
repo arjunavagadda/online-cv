@@ -17,7 +17,7 @@ sidebar:
     website:  www.arjunavagadda.ml
     linkedin: arjunavagadda207
     github: arjunavagadda
-    telegram: arjun_07 # add your nickname without '@' sign
+    #telegram: arjun_07 # add your nickname without '@' sign
     gitlab: arjun.avagadda
     bitbucket:
     twitter: 'arjun_207'
@@ -31,8 +31,6 @@ sidebar:
         link: https://www.dropbox.com/s/kgdl449s4zxuq6i/Rising%20Star_AvagaddaArjun.pdf?dl=0
 
       - item: Client Appreciation for efforts in Cloudbees migration and Mobile automation
-        
-
       
     
     certs:
@@ -49,11 +47,11 @@ sidebar:
         link: https://www.dropbox.com/s/xhsx735vzlupy9e/M001%20-%20Course%20Completion%20Confirmation.pdf?dl=0
 
     languages:
-      - idiom: Telugu
-        level: Native
-
       - idiom: English
         level: Professional
+
+      - idiom: Telugu
+        level: Native
 
       - idiom: Hindi
         level: Elementary
@@ -110,8 +108,8 @@ experiences:
         - Experience in developing Splunk Queries and
           Dashboards targeted at understanding application
           performance.
-        - Worked with AWS Environment on services like EC2, S3, CloudWatch
-        - Experience in Installation, Configuration of Web/Application Server’s Tomcat 7.0/8.0, Apache 2.2/2.4
+        - Worked with AWS Environment on services such as EC2, S3, CloudWatch
+        - Experience in Installation, Configuration of Web/Application Server’s Tomcat, Apache
         - Automate infrastructure provisioning using Terraform (beginner level)
         - Worked with some miscellenous tools like jira, rally
     - role: Software Trainee
@@ -141,7 +139,7 @@ projects:
       - title: Mobile Automation framework
         # link: "#hook"
         tagline: |
-            - Experience in building, integrating, and testing digital mobile app with responsiveness
+            - Experience in building, integrating, and testing digital mobile app with responsiveness.
             - Experience in setting up test environment for automated script execution using Java, Appium, Maven and MongoDB
             - Improved the framework to work with android and configured virtual emulators to test the application.
               
@@ -152,28 +150,28 @@ projects:
         tagline: |
             - Involved in setting up CloudBees (Jenkins Enterprise) Master and multiple slaves as a CI tool.
             - Worked on Jobs migration from Jenkins to CloudBees.
-            - Responsible for Jenkins plugin management, user management, Build/Deploy Pipeline Setup, and scheduling of jobs (cron), setting up remote job triggering.
-            - Worked on conversion of freestyle jobs to pipeline as a code in DEV, SIT, UAT & Production environments
-            - Email notifications and notifications to WebEx teams, worked on cisco spark Plugin and its implementation in pipeline jobs (Declarative pipeline)
-            - Worked on Jenkinsfile and Shared libraries in Jenkins and enhanced reusability.
+            - Responsible for Jenkins plugin management, user management, Build/Deploy Pipeline Setup.
+            - Worked on conversion of freestyle jobs to pipeline as a code in DEV, SIT, UAT & Production environments.
+            - Worked on cisco spark Jenkins Plugin that sends notification to WebEx teams and its implementation in pipeline jobs (Declarative pipeline).
+            - Worked on Jenkinsfile and Shared libraries and enhanced reusability.
           
       - title: Ansible
         # link: "#"
         tagline: |
             - Used Ansible as Configuration management tool, to migrate application running on some old configuration instances to new servers.
-            - Automated package updates and security patches using Ansible playbooks
-            - Good understanding on Ansible Adhoc commands
+            - Automated package updates and security patches using Ansible playbooks.
+            - Good understanding on Ansible Adhoc commands.
       - title: POC on Docker
         # link: "#"
         tagline: |
             - Experience working with Docker, and Micro Services
             - Developed docker files for a micro service architecture application.
-            - Experience with container based deployments using Docker, working with Docker images, container, Docker Hub
+            - Experience with container based deployments using Docker, working with Docker images, container and Docker Hub
 
       - title: Splunk Monitoring tool
         # link: "#"
         tagline: |
-            - Developed custom Add-ons using Python Scripting which pulls data from different sources
+            - Developed custom Add-ons using Python Scripting which pulls data from different sources(Jenkins,Rally,ALM)
             - Created Reports, Alerts and Dashboards by Splunk query language for various agile teams in the project.
             - Worked on shell scripting to automate the Splunk reindexing.
       - title: AWS Environment and NOC Analyst
@@ -205,10 +203,10 @@ publications:
         link: "https://gitlab.com/arjun.avagadda"
         # authors: Edgar T. Irons
         conference: |
-            - Prepared reference Notes on various concepts on Ansible, Docker, Terraform 
-            - Worked on lambda basic snippets
-            - Exposure to aws devops services - aws CodeDeploy , CodePipeline
-            - Built some basic aws CloudFormation templates for VPC provisioning on AWS
+            - Composed reference Notes for various concepts on Ansible, Docker, Terraform.
+            - Worked on lambda basic snippets.
+            - Exposure to aws devops services such as aws CodeDeploy , CodePipeline
+            - Built some basic aws CloudFormation templates for provisioning resources on AWS
 
       - title: "#Chaos Engineering" 
         link: "https://gitlab.com/arjun.avagadda/devops-misc"
