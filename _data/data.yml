@@ -110,7 +110,7 @@ experiences:
           performance.
         - Worked with AWS Environment on services such as EC2, S3, CloudWatch
         - Experience in Installation, Configuration of Web/Application Server’s Tomcat, Apache
-        - Automate infrastructure provisioning using Terraform (beginner level)
+        - Experience in cloud provisioning tools such as Terraform and CloudFormation.
         - Worked with some miscellenous tools like jira, rally
     - role: Software Trainee
       time: Aug/2018 - Dec/2018
@@ -174,13 +174,12 @@ projects:
             - Developed custom Add-ons using Python Scripting which pulls data from different sources(Jenkins,Rally,ALM)
             - Created Reports, Alerts and Dashboards by Splunk query language for various agile teams in the project.
             - Worked on shell scripting to automate the Splunk reindexing.
-      - title: AWS Environment and NOC Analyst
+      - title: App/Cloud Support
         # link: "#"
         tagline: |
-            - Worked on some of the AWS services EC2, S3, CloudWatch and beginner level understanding of VPC.
-            - Responsible for ensuring maintaining performance and setting up monitoring using Cloud Watch.
-            - Managed roles and permissions of users with the help of AWS IAM.
-
+            - Experience in setting up enterprise infrastructure on Amazon Web Services (AWS) including EC2, S3, IAM, Cloud Formation, VPC, CloudWatch, Cloud Trial etc.
+            - Experience on AWS Serverless services Lambda, API Gateway.
+            - Experience in LINUX/Unix System Administration.
 publications:
     title: Personal/Hobby Projects
     intro: |
