@@ -1,55 +1,65 @@
 {% assign sidebar = site.data.data.sidebar %}
 <div class="sidebar-wrapper">
-
   <div class="profile-container">
-
     {% if sidebar.name %}
-    <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" alt="profile picture" />
-    {% endif %}
-
-    {% if sidebar.name %}
+    <img
+      class="avatar"
+      src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}"
+      alt="profile picture"
+    />
+    {% endif %} {% if sidebar.name %}
     <h1 class="name">{{ sidebar.name }}</h1>
-    {% endif %}
-
-    {% if sidebar.tagline %}
+    {% endif %} {% if sidebar.tagline %}
     <h3 class="tagline">{{ sidebar.tagline }}</h3>
     {% endif %}
+  </div>
+  <!--//profile-container-->
 
-  </div><!--//profile-container-->
-
-  {% include contact.html %}
-
-  {% if sidebar.education %}
-    {% include education.html %}
-  {% endif %}
-
-  
-  {% include achivement.html %}
-  {% include cert.html %}
-  {% include language.html %}
-  {% include interests.html %}
-
-  {% if sidebar.about %}
-    {% include about.html %}
-  {% endif %}
+  {% include contact.html %} {% if sidebar.education %} {% include
+  education.html %} {% endif %} {% include achivement.html %} {% include
+  cert.html %} {% include language.html %} {% include interests.html %} {% if
+  sidebar.about %} {% include about.html %} {% endif %}
 
   <div>
     <span class="iconify" data-icon="logos:aws" data-width="50"></span>
 
-    <img src="{{ site.baseurl }}/assets/images/awsSAA.png" alt="profile picture" />
-    <img src="{{ site.baseurl }}/assets/images/awsDVA.png" alt="profile picture" />
+    <img
+      src="{{ site.baseurl }}/assets/images/awsSAA.png"
+      alt="profile picture"
+    />
+    <img
+      src="{{ site.baseurl }}/assets/images/awsDVA.png"
+      alt="profile picture"
+    />
 
-    <span  class="iconify" data-icon="fa-brands:git" data-width="30"></span>
-    <span  class="iconify" data-icon="logos:jenkins" data-width="30"></span>
-    <span  style="background-color: aquamarine;" class="iconify" data-icon="logos:docker-icon" data-width="40"></span>
-    <span  class="iconify" data-icon="vscode-icons:file-type-ansible" data-width="40"></span>
+    <span class="iconify" data-icon="fa-brands:git" data-width="30"></span>
+    <span class="iconify" data-icon="logos:jenkins" data-width="30"></span>
+    <span
+      style="background-color: aquamarine"
+      class="iconify"
+      data-icon="logos:docker-icon"
+      data-width="40"
+    ></span>
+    <span
+      class="iconify"
+      data-icon="vscode-icons:file-type-ansible"
+      data-width="40"
+    ></span>
     <span class="iconify" data-icon="logos:aws" data-width="50"></span>
-    <span  class="iconify" data-icon="logos:terraform-icon" data-width="30"></span>
-    <span  class="iconify" data-icon="logos:linux-tux" data-width="30"></span>
-    <span  class="iconify" data-icon="logos:python" data-width="30"></span>
+    <span
+      class="iconify"
+      data-icon="logos:terraform-icon"
+      data-width="30"
+    ></span>
+    <span class="iconify" data-icon="logos:linux-tux" data-width="30"></span>
+    <span class="iconify" data-icon="logos:python" data-width="30"></span>
     <span class="iconify" data-icon="logos:splunk" data-width="50"></span>
   </div>
 
-  
-
-</div><!--//sidebar-wrapper-->
+  <div style="margin-top:50px;margin-left: 25px;">
+    <button style="color: black;background-color: cyan;border-radius: 6px;" onclick="location.href='https://sais-organization.gitbook.io/mydocs/'" type="button">
+      digital resources
+    </button>
+  </div>
+</div>
+<!--//sidebar-wrapper-->
