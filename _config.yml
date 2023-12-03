@@ -2,7 +2,7 @@
 
 # Site Settings
 title: My Resume
-url: 'www.arjunavagadda.live'
+url: 'arjunavagadda.live'
 baseurl: '/online-cv' #change it according to your repository name
 description: ArjunAvagadda Resume
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
